@@ -16,3 +16,4 @@ L'objectif de ce document est de regrouper les liens vers les diffénretes resso
 | API                     | [Link](/APIDoc.md)                    |
 | Virtual Authentificator | [Link](/VirtualAuthentificatorDoc.md) |
 | KeyCloack               | [Link](/KeyCloackDoc.md)              |
+| Resume Devox Video      | [Link](/DevoxVideo.md)                |

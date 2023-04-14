@@ -13,7 +13,7 @@ Contrairement aux autres système FIDO qui necessite le device particulier pour 
 - Utilise comme terminaux de base les **téléphones**
 
 ## Désavantages
-- Moins sécurisée que les autres systèmes FIDO avec lien entre-device car la clé est présente dans un cloud donc **en ligne** ( *voir* [lien](/images/security_spectrum.png))
+- Moins sécurisée que les autres systèmes FIDO avec lien entre-device car la clé est présente dans un cloud donc **en ligne** ( *voir* [image](/images/security_spectrum.png))
 - Enferme un peu l'utilisateur dans le système cloud dans lequel se trouve la Passkey
 
 # Objectif
