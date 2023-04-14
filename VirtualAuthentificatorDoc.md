@@ -19,4 +19,6 @@ Enfin il faut activer l'authentificateur pour qu'il soit utilisable.
 
 # Lien Importants
 [Procédure officielle](https://developer.chrome.com/docs/devtools/webauthn/) : Montre la procdéure officielle avec le lien du site de démo  
-[Test compatibilité navigateur](https://caniuse.com/?search=WebAuthn): site de Can I use, permettant de savoir si la version du navigateur est compatible avec WebAuthn
+[Test compatibilité navigateur](https://caniuse.com/?search=WebAuthn): site de Can I use, permettant de savoir si la version du navigateur est compatible avec WebAuthn  
+[Détails Résident Keys](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html) : Détaille le principe de *résident Key* et de *credentials découvrable*  
+[Détails User Verification](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/User_Presence_vs_User_Verification.html) : Détaille la différence entre *User Présence* et *User Verification*
