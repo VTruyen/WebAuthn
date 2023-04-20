@@ -1,0 +1,57 @@
+@startuml ArchiServer
+package Spring{
+class Projet{
+    --attributes--
+    - id : int
+    - name : String
+    - participants : List<User>
+    - depenses : List<Depense>
+    - description : String
+    - admin : User
+    --getter/setter--
+
+}
+
+class Depense{
+    --attributes--
+    - id : int
+    - montant : Float
+    - créditer : User
+    - projet : Projet
+    - beneficiaires : List<User> ?
+    - beneficiaires : HashMap<User,Integer> ?
+    --getter/setter--
+
+}
+
+class User{
+    --attributes--
+    - id : int
+    - uidKeyCloack : int
+    - name : String
+    - projets : List<Projet>
+    - detteTotal : int ?
+    --getter/service--
+}
+}
+
+package Angular{
+    class FormCreaProjetComponent{
+        name : string
+        description: string
+    }
+
+    class BtnCreatProjetComponent{
+    }
+
+    class EspaceProjetComponent{
+        projetList : [ProjetComponent]
+    }
+
+    class ProjetComponent{
+        name : string
+        depense : number
+    }
+}
+
+@enduml
