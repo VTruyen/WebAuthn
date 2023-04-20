@@ -3,6 +3,7 @@
 ## Spring Boot 3
 [Liaison KeyClaock Spring 3](https://medium.com/geekculture/using-keycloak-with-spring-boot-3-0-376fa9f60e0b) : article medium introduction connexion entre Spring 3 et KeyCloack
 [Tuto Spring Boot Video](https://www.youtube.com/watch?v=-mwpoE0x0JQ) : cours video (*en anglais*) de 2h pour comprendre Spring Boot et les connexions au bases de données
+[Example Test Spring](https://springframework.guru/testing-spring-boot-restful-services/) : exemple de cas de test pour toutce qui est *Repository* et *Service* 
 
 ## Angular Ressources
 
